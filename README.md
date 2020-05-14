@@ -1,6 +1,6 @@
-# Office
+# Ruby on Rails Office Management Project
 
-Project of an CRUD developed with Rails.
+The application is demontrates the common Office Management functionlity using of an CRUD function using Ruby/Rails.
 
 ## Features
 
@@ -82,6 +82,5 @@ This project is licensed under <a href="license.md">The MIT License (MIT)</a>.
 
 
 Developed by<br>
-Danilo Meneghel<br>
-danilo.meneghel@gmail.com<br>
-http://danilomeneghel.github.io/<br>
+Sergiy Koyev<br>
+skoev@hotmail.com<br>
